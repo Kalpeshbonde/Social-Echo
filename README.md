@@ -169,14 +169,5 @@ If you prefer, the Flask server can be run locally as an alternative to using th
 
 The admin dashboard can be accessed at the `/admin` route. Use the `admin_tool.sh` script to configure the admin account. The admin account can be used to manage moderators, communities, and perform other admin-related tasks. You can also enable/disable or switch API services using the admin dashboard.
 
-### Moderator
 
-Moderators have specific email domain (`@mod.socialecho.com`). When registering with an email from this domain, the user is automatically assigned the moderator role. Moderators can be assigned to different communities from the admin dashboard.
-
-#### Demo
-https://youtu.be/Tmncayg7FeU
-
-## License
-
-This project is licensed under the [MIT License](https://github.com/nz-m/SocialEcho/blob/main/LICENSE).
 
